@@ -21,7 +21,7 @@ This repository is provided for research purposes only.
 - pyDOE
 - h5py
 
-## Installationdfaffdaf
+## Installation
 
 ```shell
 conda create -n PIDAO python=3.8
